@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosballOpenshift/
           push: true
-          tags: shivathebravo/foosballopenshift:${{github.run_number}}
+          tags: ray2632/is436:${{github.run_number}}
